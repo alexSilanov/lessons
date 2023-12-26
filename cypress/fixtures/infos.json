@@ -1,0 +1,16 @@
+{
+    "set": [
+        {
+            "firstName": "Stan",
+            "userEmail": "stan@redrover.sch"
+        },
+        {
+            "firstName": "Svetlana",
+            "userEmail": "svetlana@redrover.sch"
+        },
+        {
+            "firstName": "Maria",
+            "userEmail": "maria@redrover.sch"
+        }
+    ]
+}
